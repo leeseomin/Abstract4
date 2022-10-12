@@ -7,6 +7,17 @@ Abstract 4 Artworks by LEE SEOMIN
 Abstract 1 & 2 : https://github.com/leeseomin/Abstract
 
 Abstract 3 : https://github.com/leeseomin/Abstract3 
+
+
+ <br/><br/>
+ 
+ ### :o: NFT marketplaces  :point_down:
+
+
+ <br/>
+https://opensea.io/collection/abstract-2-by-lee-seomin
+
+ <br/><br/>
  
  
  ### Untitled 154
