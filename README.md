@@ -3,6 +3,10 @@ Abstract 4 Artworks by LEE SEOMIN
 
  <br/><br/>
  
+  <br/><br/>
+Abstract 1 & 2 : https://github.com/leeseomin/Abstract
+
+Abstract 3 : https://github.com/leeseomin/Abstract3 
  
  
  ### Untitled 154
