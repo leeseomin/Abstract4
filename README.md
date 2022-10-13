@@ -32,7 +32,7 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
 
 ### Untitled 158
 
- <img src="https://github.com/leeseomin/Abstract4/blob/main/art/Untitled158.png" width="90%">    
+ <img src="https://github.com/leeseomin/Abstract4/blob/main/art/Untitled158.png" width="80%">    
  
  <br/><br/>
  
