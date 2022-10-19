@@ -70,6 +70,15 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
  <img src="https://github.com/leeseomin/Abstract4/blob/main/art/Untitled165.png" width="80%">    
  
  <br/><br/> 
+
+
+
+### Untitled 166 : The birth of the void
+
+ <img src="https://github.com/leeseomin/Abstract4/blob/main/art/Untitled166.png" width="80%">    
+ 
+ <br/><br/> 
+ 
  
  
  ### Author and Creator
