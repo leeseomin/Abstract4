@@ -78,6 +78,12 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
  <img src="https://github.com/leeseomin/Abstract4/blob/main/art/Untitled166.png" width="80%">    
  
  <br/><br/> 
+
+### Untitled 168
+
+ <img src="https://github.com/leeseomin/Abstract4/blob/main/art/Untitled168.png" width="80%">    
+ 
+ <br/><br/> 
  
  
  
