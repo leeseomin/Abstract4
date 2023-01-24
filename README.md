@@ -1,6 +1,8 @@
 # Abstract4
 Abstract 4 Artworks by LEE SEOMIN
 
+
+
   <br/><br/>
 Abstract 1 & 2 : https://github.com/leeseomin/Abstract
 
@@ -17,6 +19,7 @@ https://opensea.io/collection/abstract-2-by-lee-seomin
 
  <br/><br/>
  
+ It is a work of “Untitled” project that started 2022.
  
  ### Untitled 155
 
