@@ -33,11 +33,7 @@ Abstract 3     : https://github.com/leeseomin/Abstract3
  
  <br/><br/> 
  
-### Untitled 173
 
- <img src="https://github.com/leeseomin/Abstract4/blob/main/art/Untitled173.webp" width="80%">    
- 
- <br/><br/> 
  
 ### Untitled 175
 
